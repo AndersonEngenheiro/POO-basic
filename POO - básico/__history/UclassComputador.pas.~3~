@@ -1,0 +1,21 @@
+unit UclassComputador;
+
+interface
+
+  type
+   Tcomputador = class
+
+    //propriedades
+     memoriaRam : String;
+     hd : String;
+     monitor : String;
+     placaRede : String;
+     sistemaOperaciona : String;
+     preco : String;
+
+  end;
+
+
+implementation
+
+end.

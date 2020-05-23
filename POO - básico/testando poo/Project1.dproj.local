@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/25 15:11:47.000.662,=C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\Unit1.pas</Transaction>
+    <Transaction>2019/07/25 22:20:17.000.537,=C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\Unit1.pas</Transaction>
+    <Transaction>2019/07/25 22:23:13.000.502,C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\Unit1.pas=C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\POO - básico\testando poo\Unit1.pas</Transaction>
+    <Transaction>2019/07/25 22:23:13.000.502,C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\Unit1.dfm=C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\POO - básico\testando poo\Unit1.dfm</Transaction>
+    <Transaction>2019/07/25 22:23:16.000.094,C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\Project1.dproj=C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\POO - básico\testando poo\Project1.dproj</Transaction>
+    <Transaction>2019/07/25 22:29:09.000.972,=C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\POO - Classes\UvaloresNF.pas</Transaction>
+    <Transaction>2019/07/25 22:42:00.000.328,=C:\Users\ANDERSON\Dropbox\ENGENHARIA DE COMPUTAÇÃO\Meus projetos em Delphi\POO - Classes\UcadastroCliente.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

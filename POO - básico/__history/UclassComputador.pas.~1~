@@ -1,0 +1,17 @@
+unit UclassComputador;
+
+interface
+
+  type
+   Tcomputador = class
+     memoriaRam = String;
+     hd = String;
+     monitor = String;
+     placaVideo = String;
+
+  end;
+
+
+implementation
+
+end.

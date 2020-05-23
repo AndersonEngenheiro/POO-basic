@@ -1,0 +1,19 @@
+unit UvaloresNF;
+
+interface
+  type
+
+    TvaloresNF = class
+      valorMerc : float;
+      frete: float;
+      ipi: float;
+      outrosVal : float;
+      perCred : float;
+      mva : float;
+      aliqInterna : float;
+
+
+  end;
+implementation
+
+end.

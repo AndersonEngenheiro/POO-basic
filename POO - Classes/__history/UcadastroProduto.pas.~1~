@@ -1,0 +1,46 @@
+unit UcadastroProduto;
+       // a property deve ser inserida a princípio dentro de type
+interface
+    type
+
+      private
+
+        TcadastroProduto = Class
+          FcodProduto : integer;
+          FdescricaoProduto : string;
+
+          procedure SetcodProduto(const Value: integer);
+          procedure SetdescricaoProduto(const Value: string);
+
+       protected
+
+
+      end;
+
+     published
+        function exibeDados: string; virtal // permite seja modificada por classe inferiores
+
+        property codProduto: integer read FcodProduto write SetcodProduto;
+        property descricaoProduto: string read FdescricaoProduto write SetdescricaoProduto;
+
+
+
+implementation
+
+{ TcadastroProduto }
+
+// aqui podemos declarar uses
+uses
+  Messages, SysUtils, Dialogs;
+
+procedure TcadastroProduto.SetcodProduto(const Value: integer);
+begin
+  FcodProduto := Value;
+end;
+
+procedure TcadastroProduto.SetdescricaoProduto(const Value: string);
+begin
+  FdescricaoProduto := Value;
+end;
+
+end.
